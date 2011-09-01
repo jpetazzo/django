@@ -1,2 +1,3 @@
 #!/bin/sh
 python hellodjango/manage.py syncdb --noinput
+python mkadmin.py

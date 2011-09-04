@@ -11,7 +11,7 @@ To run this code on DotCloud, you need a `DotCloud account
 <https://www.dotcloud.com/accounts/register/>`_ (free tier available).
 Then clone this repository, and push it to DotCloud::
 
-  git clone git://github.com/jpetazzo/django.git
+  $ git clone git://github.com/jpetazzo/django.git
   $ cd django
   $ dotcloud push hellodjango
 
